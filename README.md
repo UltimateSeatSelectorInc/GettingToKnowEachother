@@ -1,2 +1,2 @@
 # GettingToKnowEachother
-Getting to know eachother webpage repo
+Getting to know each other teams repo.
